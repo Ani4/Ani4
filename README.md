@@ -51,5 +51,5 @@
 
 [website]: https://self.ani.systems
 [twitter]: https://twitter.com/Ani441793167
-[instagram]: https://instagram.com/_ani_4298/
+[instagram]: https://www.instagram.com/_ani_4298/tagged
 [linkedin]: https://linkedin.com/in/ani4/
