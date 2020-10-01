@@ -3,11 +3,11 @@
 [![Website](https://img.shields.io/badge/ANI4-Self-orange?style=for-the-badge&logo=appveyor)](https://self.ani.systems)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Ani441793167?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAni441793167r&screen_name=Ani441793167)
 
-## I'm a Son, Brother, Developer, and Teacher !
+## I'm a Son, Brother, and Developer!
 
--   🔭 I’m currently working on my skills [Roadmap][website] !
+-   🔭 I’m currently working on my skills [Roadmap](https://github.com/Ani4/developer-roadmap) !
 -   🌱 I’m currently learning everything 🤣
--   👯 I’m looking to opportunity to work with other Developer
+-   👯 I’m looking for an opportunity to work with other Developer
 -   🥅 2020 Goals: Fight with Pandemic
 -   ⚡ Fun fact: I love to play games
 
@@ -45,7 +45,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.ani4.vercel.app/api?username=ani4&show_icons=true&hide_border=true" />
+  <img align="left" alt="Ani4's Github Stats" src="https://github-readme-stats.ani4.vercel.app/api?username=ani4&show_icons=true&hide_border=true" />
 
 </details>
 
