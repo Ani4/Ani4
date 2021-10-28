@@ -2,6 +2,7 @@
 
 [![Website](https://img.shields.io/badge/ANI4-Self-orange?style=for-the-badge&logo=appveyor)](https://self.ani.systems)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Ani441793167?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAni441793167r&screen_name=Ani441793167)
+<a href="https://app.daily.dev/Ani4"><img src="https://api.daily.dev/devcards/9ec44c91b25145fe831e57fa030506c4.png?r=2ks" width="400" alt="aniket kumar sharma's Dev Card"/></a>
 
 ## I'm a Son, Brother, and Developer!
 
