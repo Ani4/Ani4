@@ -4,13 +4,6 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/Ani441793167?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAni441793167r&screen_name=Ani441793167)
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Ani4/Ani4/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
 
-## I'm a Son, Brother, and Developer!
-
--   🔭 I’m currently working on my skills [Roadmap](https://roadmap.sh/react) !
--   🌱 I’m currently learning everything 🤣
--   👯 I’m looking for an opportunity to work with other Developer
--   🥅 2020 Goals: Fight with Pandemic
--   ⚡ Fun fact: I love to play games
 
 ### Connect with me:
 
